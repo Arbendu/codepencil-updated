@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codepencilUp/static/css/main.24b3d75a.css",
+    "main.js": "/codepencilUp/static/js/main.31e99464.js",
+    "index.html": "/codepencilUp/index.html",
+    "main.24b3d75a.css.map": "/codepencilUp/static/css/main.24b3d75a.css.map",
+    "main.31e99464.js.map": "/codepencilUp/static/js/main.31e99464.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24b3d75a.css",
+    "static/js/main.31e99464.js"
+  ]
+}
